@@ -213,17 +213,6 @@ Atualização de produto
 Exclusão de produto	
 ```
 
-(As imagens abaixo representam o funcionamento real da API REST.)
-<img width="1100" height="600" alt="delete_product" src="https://github.com/user-attachments/assets/7db26a10-9afe-4c99-bc82-c25b17738f9e" />
-
-<img width="1100" height="600" alt="get_categories" src="https://github.com/user-attachments/assets/aaabd0e9-726b-44da-baa1-e86138333552" />
-
-<img width="1100" height="600" alt="post_product" src="https://github.com/user-attachments/assets/84963adb-e106-438c-b010-c6e57bcb5575" />
-
-<img width="1100" height="600" alt="put_product" src="https://github.com/user-attachments/assets/62948944-2772-47e7-9181-766d3d21eea3" />
-
-<img width="1100" height="600" alt="server_running" src="https://github.com/user-attachments/assets/b53b3b3c-40fa-4fd6-8748-698206329f37" />
-
 📘 Relatório
 O relatório completo (report_rest_simulated.pdf) inclui:
 
