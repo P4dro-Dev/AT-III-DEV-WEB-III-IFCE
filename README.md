@@ -1,7 +1,8 @@
 # 🧩| Sistema de Tarefas - API RESTful com Django
 
 Este projeto implementa uma **API RESTful completa** utilizando **Django** e **Django REST Framework**, seguindo o padrão **CRUD** para dois modelos de exemplo:  
-**Product** (Produto) e **Category** (Categoria). A aplicação foi desenvolvida como parte da **Unidade 3 - Tarefa 3** da disciplina **Desenvolvimento Web III**, com foco em **endpoints RESTful**, **boas práticas com Git** e **documentação técnica**.
+**Product** (Produto) e **Category** (Categoria). 
+A aplicação foi desenvolvida como parte da **Unidade 3 - Tarefa 3** da disciplina **Desenvolvimento Web III**, com foco em **endpoints RESTful**, **boas práticas com Git** e **documentação técnica**.
 
 ---
 
