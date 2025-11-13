@@ -235,3 +235,7 @@ Implementação correta do padrão REST	6,0	CRUD completo para ambos os modelos
 Uso correto de Git (branch, commit, push)	2,0	Histórico e versionamento claros
 Relatório organizado (prints e explicações)	2,0	PDF final contendo toda a documentação
 ```
+⚛️| Conclusão
+
+O projeto atinge todos os objetivos propostos, demonstrando domínio do framework Django e aplicação dos princípios RESTful.
+A arquitetura foi mantida simples e escalável, pronta para futuras expansões — como autenticação, permissões e testes automatizados.
