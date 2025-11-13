@@ -1,13 +1,11 @@
-# 🧩 Sistema de Tarefas - API RESTful com Django
+# 🧩| Sistema de Tarefas - API RESTful com Django
 
 Este projeto implementa uma **API RESTful completa** utilizando **Django** e **Django REST Framework**, seguindo o padrão **CRUD** para dois modelos de exemplo:  
-**Product** (Produto) e **Category** (Categoria).
-
-A aplicação foi desenvolvida como parte da **Unidade 3 - Tarefa 3** da disciplina **Desenvolvimento Web III**, com foco em **endpoints RESTful**, **boas práticas com Git** e **documentação técnica**.
+**Product** (Produto) e **Category** (Categoria). A aplicação foi desenvolvida como parte da **Unidade 3 - Tarefa 3** da disciplina **Desenvolvimento Web III**, com foco em **endpoints RESTful**, **boas práticas com Git** e **documentação técnica**.
 
 ---
 
-## 🚀 Objetivo
+## 🚀| Objetivo
 
 O objetivo do projeto é demonstrar a criação de uma aplicação web com Django capaz de expor endpoints REST para:
 - Cadastrar novos objetos;
@@ -17,7 +15,7 @@ O objetivo do projeto é demonstrar a criação de uma aplicação web com Djang
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## 🏗️| Estrutura do Projeto
 
 ```
 rest_project/
@@ -43,16 +41,17 @@ rest_project/
 
 ---
 
-## 🧱 Tecnologias Utilizadas
+## 🧱| Tecnologias Utilizadas
 
 ```
 - **Python 3.10+**
 - **Django 4.2+**
 - **Django REST Framework 3.14+**
 - **SQLite3 (banco de dados padrão do Django)**
+
 ```
 
-## ⚙️ Configuração do Ambiente
+## ⚙️| Configuração do Ambiente
 
 ### 1️⃣ Criação da branch
 
@@ -95,7 +94,7 @@ O servidor iniciará em:
 
 ````
 
-🧩 Modelos Criados
+🧩| Modelos Criados
 
 ```
 Category
@@ -116,7 +115,7 @@ description	TextField	Descrição do produto
 price	DecimalField	Preço do produto
 category	ForeignKey(Category)	Categoria relacionada
 
-🌐 Endpoints RESTful
+🌐| Endpoints RESTful
 
 ```
 🔹 Categoria (/api/categories/)
@@ -136,7 +135,8 @@ GET	/api/products/{id}/	Retorna um produto específico
 PUT	/api/products/{id}/	Atualiza um produto existente
 DELETE	/api/products/{id}/	Exclui um produto
 ```
-👾 Exemplos de Requisições
+👾| Exemplos de Requisições
+
 🔹 Criar uma Categoria
 ```
 bash
@@ -174,7 +174,7 @@ Content-Type: application/json
 
 ```
 
-🧰 Testes Automatizados
+🧰| Testes Automatizados
 
 ```
 Arquivo: core/tests.py
@@ -213,7 +213,7 @@ Atualização de produto
 Exclusão de produto	
 ```
 
-📘 Relatório
+📘| Relatório
 O relatório completo (report_rest_simulated.pdf) inclui:
 
 ```
@@ -226,7 +226,7 @@ Instruções para execução;
 Espaço para inserir o link do repositório no GitHub.
 
 ```
-🧾 Critérios de Avaliação
+🧾| Critérios de Avaliação
 
 ```
 Critério	Pontos	Descrição
